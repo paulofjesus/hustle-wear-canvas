@@ -19,21 +19,21 @@ const Products = () => {
   const products = [
     {
       id: 1,
-      name: 'Camisa Oversize Off White',
-      description: 'Corte largo e confortável, 100% algodão',
-      image: '/images/Hustle Wear.pdf-1.png'
-    },
-    {
-      id: 2,
-      name: 'Camisa Marrom',
+      name: 'Estampa Retrô',
       description: 'Estilo urbano com toque de elegância',
       image: '/images/Hustle Wear.pdf (1)-1.png'
     },
     {
-      id: 3,
-      name: 'Estampa Panda',
+      id: 2,
+      name: 'Estampa Caracol',
       description: 'Design exclusivo com estilo único',
       image: '/images/Hustle Wear.pdf (2)-1.png'
+    },
+    {
+      id: 3,
+      name: 'Camisa Oversize Off White',
+      description: 'Corte largo e confortável, 100% algodão',
+      image: '/images/Hustle Wear.pdf-1.png'
     },
     {
       id: 4,

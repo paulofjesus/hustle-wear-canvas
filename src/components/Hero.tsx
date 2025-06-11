@@ -24,7 +24,7 @@ const Hero = () => {
           <span className="text-hustle-gold">representa você.</span>
         </h1>
         <p className="text-lg md:text-xl text-hustle-white/80 mb-8 max-w-2xl mx-auto">
-          Streetwear oversized com atitude das quebradas para quem tem estilo nas veias.
+        Streetwear da quebrada, 100% do seu jeito. <br/>Personalize com a Hustle.
         </p>
         <div className="flex flex-col sm:flex-row justify-center gap-4">
           <button 

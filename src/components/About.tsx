@@ -29,7 +29,7 @@ const About = () => {
             </p>
             <p className="text-hustle-white/90 mb-6 text-lg">
               Cada peça é uma expressão — urbana, personalizada, e 100% você.
-              Nossas roupas oversized são feitas para destacar seu estilo único, 
+              Nossas roupas são feitas para destacar seu estilo único, 
               mantendo o conforto e qualidade que você merece.
             </p>
             <p className="text-hustle-white/90 mb-6 text-lg">
@@ -44,7 +44,7 @@ const About = () => {
               </div>
               <div className="border-l-2 border-hustle-gold pl-4">
                 <p className="text-hustle-gold text-4xl font-bebas">Original</p>
-                <p className="text-hustle-white/80">Das quebradas</p>
+                <p className="text-hustle-white/80">Das ruas</p>
               </div>
               <div className="border-l-2 border-hustle-gold pl-4">
                 <p className="text-hustle-gold text-4xl font-bebas">Qualidade</p>
