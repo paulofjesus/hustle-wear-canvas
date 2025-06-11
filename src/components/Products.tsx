@@ -1,4 +1,3 @@
-
 import React, { useRef } from 'react';
 import ProductCard from './ProductCard';
 
@@ -22,31 +21,31 @@ const Products = () => {
       id: 1,
       name: 'Camisa Oversize Off White',
       description: 'Corte largo e confortável, 100% algodão',
-      image: 'https://images.unsplash.com/photo-1618160702438-9b02ab6515c9?ixlib=rb-4.0.3'
+      image: '/images/Hustle Wear.pdf-1.png'
     },
     {
       id: 2,
       name: 'Camisa Marrom',
       description: 'Estilo urbano com toque de elegância',
-      image: 'https://images.unsplash.com/photo-1618160702438-9b02ab6515c9?ixlib=rb-4.0.3'
+      image: '/images/Hustle Wear.pdf (1)-1.png'
     },
     {
       id: 3,
       name: 'Estampa Panda',
       description: 'Design exclusivo com estilo único',
-      image: 'https://images.unsplash.com/photo-1618160702438-9b02ab6515c9?ixlib=rb-4.0.3'
+      image: '/images/Hustle Wear.pdf (2)-1.png'
     },
     {
       id: 4,
       name: 'Estampa Favela',
       description: 'Das quebradas para as ruas da cidade',
-      image: 'https://images.unsplash.com/photo-1618160702438-9b02ab6515c9?ixlib=rb-4.0.3'
+      image: '/images/Hustle Wear.pdf (3)-1.png'
     },
     {
       id: 5,
       name: 'Camisa Logo Hustle',
       description: 'Estampa com nosso logo icônico',
-      image: 'https://images.unsplash.com/photo-1618160702438-9b02ab6515c9?ixlib=rb-4.0.3'
+      image: '/images/Hustle Wear.pdf (4)-1.png'
     }
   ];
 
